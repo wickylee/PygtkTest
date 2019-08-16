@@ -1,0 +1,128 @@
+* {
+  color: initial;
+  font-size: inherit;
+  background-color: initial;
+  font-family: inherit;
+  font-style: inherit;
+  font-variant: inherit;
+  font-weight: inherit;
+  text-shadow: inherit;
+  /* -gtk-icon-shadow: inherit; */
+  box-shadow: initial;
+  margin-top: initial;
+  margin-left: initial;
+  margin-bottom: initial;
+  margin-right: initial;
+  padding-top: initial;
+  padding-left: initial;
+  padding-bottom: initial;
+  padding-right: initial;
+  border-top-style: initial;
+  border-top-width: initial;
+  border-left-style: initial;
+  border-left-width: initial;
+  border-bottom-style: initial;
+  border-bottom-width: initial;
+  border-right-style: initial;
+  border-right-width: initial;
+  border-top-left-radius: initial;
+  border-top-right-radius: initial;
+  border-bottom-right-radius: initial;
+  border-bottom-left-radius: initial;
+  outline-style: initial;
+  outline-width: initial;
+  outline-offset: initial;
+  background-clip: initial;
+  background-origin: initial;
+  background-size: initial;
+  background-position: initial;
+  border-top-color: initial;
+  border-right-color: initial;
+  border-bottom-color: initial;
+  border-left-color: initial;
+  outline-color:  initial;
+  background-repeat: initial;
+  background-image: initial;
+  border-image-source: initial;
+  border-image-repeat: initial;
+  border-image-slice: initial;
+  border-image-width: initial;
+  transition-property: initial;
+  transition-duration: initial;
+  transition-timing-function: initial;
+  transition-delay: initial;
+  /* -gtk-key-bindings: initial; */
+}
+
+GtkWindow{
+  color: #4a90d9;
+  background-color: rgba(100,20,20,.7);
+}
+
+#tbox {
+    background-color: rgba(200,200,200,.5);
+}
+/*
+GtkLabel{
+ color: yellowgreen;
+ background-color: green;
+ opacity: 0.95;
+ text-decoration: underline;
+ background-image:  -gtk-gradient (linear,
+          left top,
+          left bottom,
+          color-stop(0.0,rgba(34,97,70,1)),
+          color-stop(0.30,rgba(56,145,118,0.9)),
+          color-stop(0.81,rgba(34,131,116,0.9)),
+          color-stop(1.00,rgba(104,191,134,1)));
+}
+
+.button:hover {
+     color: yellowgreen;
+    background-color: green;
+    opacity: 0.95;
+    text-decoration: underline;
+    background-image:  -gtk-gradient (linear,
+             left top,
+             left bottom,
+             color-stop(0.0,rgba(34,97,70,1)),
+             color-stop(0.30,rgba(56,145,118,0.9)),
+             color-stop(0.81,rgba(34,131,116,0.9)),
+             color-stop(1.00,rgba(104,191,134,1)));
+
+
+}
+
+.button:active{
+     color: yellowgreen;
+    background-color: green;
+    opacity: 0.97;
+    text-decoration: underline;
+    background-image:  -gtk-gradient (linear,
+             left top,
+             left bottom,
+             color-stop(0.000,rgba(104,191,134,1)),
+             color-stop(0.11,rgba(34,131,116,1)),
+             color-stop(0.32,rgba(34,97,70,1)),
+             color-stop(0.70,rgba(56,145,118,1)),
+             color-stop(0.91,rgba(34,131,116,1)),
+             color-stop(1.00,rgba(104,191,134,1)));
+
+
+} */
+
+
+
+#but1 {
+    color: yellowgreen;
+    background-color: green;
+    opacity: 0.797;
+    /* text-decoration: underline;
+    background-image:  -gtk-gradient (linear,
+             left top,
+             left bottom,
+             color-stop(0.0,rgba(34,97,70,1)),
+             color-stop(0.50,rgba(56,145,118,1)),
+             color-stop(0.51,rgba(34,131,116,1)),
+             color-stop(1.00,rgba(104,191,134,1))); */
+}

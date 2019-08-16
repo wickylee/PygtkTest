@@ -1,0 +1,17 @@
+*.bak
+*.lo
+*.o
+*.orig
+*.pyc
+*.rej
+*.so
+*.la
+*.tab.c
+*~
+.*.sw[nop]
+*.gir
+*.typelib
+.deps
+.libs
+.idea
+/media

@@ -1,0 +1,86 @@
+[{
+		"FrameTime": 10,
+		"Elements": [{
+				"type": "image",
+				"name": "Img0",
+				"src": "img0.jpg",
+				"width": 800,
+				"height": 600,
+				"px": 0,
+				"py": 0
+			},
+			{
+				"type": "image",
+				"name": "Img1",
+				"src": "img1.jpg",
+				"width": 500,
+				"height": 300,
+				"px": 50,
+				"py": 50
+			},
+			{
+				"type": "pdf",
+				"name": "pdf0",
+				"src": "OsmoManual_v1.0_en.pdf",
+				"width": 500,
+				"height": 700,
+				"px": 300,
+				"py": 0
+			}
+		]
+},
+	{
+		"FrameTime": 10,
+		"Elements": [{
+				"type": "image",
+				"name": "Img5",
+				"src": "img5.jpg",
+				"width": 800,
+				"height": 600,
+				"px": 0,
+				"py": 0
+			},
+			{
+				"type": "video",
+				"name": "Video1",
+				"src": "Video1280x720b.mp4",
+				"width": 500,
+				"height": 300,
+				"px": 0,
+				"py": 0
+			}
+		]
+	},
+	{
+		"FrameTime": 10,
+		"Elements": [{
+				"type": "image",
+				"name": "Img3",
+				"src": "img3.jpg",
+				"width": 800,
+				"height": 600,
+				"px": 0,
+				"py": 0
+			},
+			{
+				"type": "web",
+				"name": "webview1",
+				"src": "http://api.jquery.com",
+				"width": 700,
+				"height": 500,
+				"px": 0,
+				"py": 0
+			},
+			{
+				"type": "ticker",
+				"name": "ticker1",
+				"src": "I know we are going to have a very successful day",
+				"width": 800,
+				"height": 100,
+				"px": 0,
+				"py": 500
+			}
+		]
+	}
+
+]
